@@ -8,5 +8,11 @@ public class GitText {
         System.out.println("sqs"+a);
         System.out.println("sqs"+a);
         System.out.println("sqs"+a);
+
+        System.out.println("sqs"+a);System.out.println("sqs"+a);
+        System.out.println("sqs"+a);
+        System.out.println("sqs"+a);
+
+
     }
 }
